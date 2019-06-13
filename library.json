@@ -10,7 +10,7 @@
   "include": [
     "*.h",
     "*.c",
-    "*.cpp",
+    "*.cpp"
   ],
   "frameworks": "arduino",
   "platforms": [
